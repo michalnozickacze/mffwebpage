@@ -1,0 +1,92 @@
+* {
+  margin:0; padding:0;
+}
+
+body {
+  background:#fff url(background.jpg) top center no-repeat; color:#303030; font:84% Arial,Helvetica,sans-serif; line-height:1.6em;
+}
+
+a {
+  color:#239a23; text-decoration:none;
+}
+
+a:hover {
+  text-decoration:underline;
+}
+
+li {
+  margin:0 0 0 30px;
+}
+
+h1 {
+  color:#888; font-size:3.2em; line-height:1.1em; letter-spacing:-3px; margin:20px 0 0 0;
+}
+
+h2 {
+  font-size:2.2em; color:#333; margin:0 0 20px 0; letter-spacing:-1px; border-bottom:2px solid #ccc;
+}
+
+h3 {
+  font-size:1.8em; margin:30px 0 15px 0; letter-spacing:-1px; border-bottom:2px solid #ccc;
+}
+
+h1,h2,h3 {
+  font-weight:700; line-height:1.4em;
+}
+
+#wrap {
+  color:#303030; margin:40px auto; padding:0; width:980px;
+}
+
+#content {
+  text-align:left; width:600px; padding-right:40px; border-right:2px solid #ccc;
+}
+
+.timestamp {
+  text-align: right;
+  color: #ccc;
+  font-style: italic;
+}
+
+#sidebar {
+  float:right; width:280px; padding-left:40px;
+}
+
+#sidebar ul {
+  list-style:none; margin:0; padding:10px 0 0 0; border-top:2px solid #ccc;
+}
+
+#sidebar li {
+  list-style:none; font-size:1.2em; margin:0 0 10px; padding:0 0 10px 0; color:#888; border-bottom:2px solid #ccc;
+}
+
+#sidebar li a {
+  font-size:1.2em;
+}
+
+#sidebar h2 {
+  font-size: 1.4em;
+}
+
+.slogan {
+  color:#888; font-size:1.4em; font-weight:700; margin:0 0 20px 0; letter-spacing:-1px;
+}
+
+.exerciseNumber {
+  padding-right: 10px;
+  color:#888;
+  font-weight: bold;
+}
+
+.exerciseContent {
+  border-left: 2px solid #ccc;
+  margin: 20px 0 20px 0;
+}
+
+.credits {
+  display:block; clear:left; font-size:0.9em; color:#aaa; margin:20px 0;
+}
+
+.linediv {
+  display:block; border-bottom:2px solid #ccc;
+}
