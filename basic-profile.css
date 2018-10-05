@@ -2,6 +2,11 @@
   margin:0; padding:0;
 }
 
+
+
+
+
+
 body {
   background:#fff url(background.jpg) top center no-repeat; color:#303030; font:84% Arial,Helvetica,sans-serif; line-height:1.6em;
 }
@@ -35,6 +40,7 @@ h1,h2,h3 {
 }
 
 #wrap {
+  
   color:#303030; margin:40px auto; padding:0; width:980px;
 }
 
@@ -44,7 +50,7 @@ h1,h2,h3 {
 
 .timestamp {
   text-align: right;
-  color: #ccc;
+  color: #bbb;     /* change here to #ccc */
   font-style: italic;
 }
 
